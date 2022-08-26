@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fleetwire.io**
 
-- 🌱 I’m currently learning **Swift 2.2**
+- 🌱 I’m currently learning **Swift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
