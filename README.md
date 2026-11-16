@@ -1,16 +1,28 @@
-<h1 align="center">Hi 👋, I'm Chad Hurin</h1>
-<h3 align="center">A passionate full-stack developer from San Diego.</h3>
+### Hi, I'm Chad 👋
 
-- 🔭 I’m currently working on **Fleetwire.io**
+I'm a software engineer and a rental host. I build [**Fleetwire**](https://fleetwire.io), booking software for independent rental businesses: cars, trucks, RVs, trailers and boats.
 
-- 🌱 I’m currently learning **Swift**
+It started in 2017, when my wife Min and I put a Tesla Model S on Turo in San Diego. A Model X followed, that became [FrunkYea Tesla Rentals](https://fleetwire.io/about/), and I wrote the software I needed to run it. That software is Fleetwire. Every feature runs on our own fleet first (1,100+ bookings and counting). These days we're based in Cary, NC.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chadhurin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chadhurin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chadhurin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chadhurin" height="30" width="40" /></a>
-<a href="https://medium.com/@chadhurin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chadhurin" height="30" width="40" /></a>
-</p>
+I've also written software at Fidelity and MetLife.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+#### What I'm building right now
+
+- 🤖 **An MCP connector** so hosts can ask Claude or ChatGPT about their fleet: daily briefing, availability, quotes, vehicle performance → [fleetwire.io/ai](https://fleetwire.io/ai/)
+- 🛣️ **Toll partnerships**, so tolls a renter runs up get matched to the right trip
+- 🧱 **A WordPress plugin** that builds a rental site in one click → [fleetwire-wordpress-plugin](https://github.com/fleetwire/fleetwire-wordpress-plugin)
+- 🔌 **A public API**, with the spec in the open → [fleetwire-openapi](https://github.com/fleetwire/fleetwire-openapi)
+
+You can see what's next, and vote on it, at [roadmap.fleetwire.io](https://roadmap.fleetwire.io).
+
+#### Open source
+
+- [**laravel-masquerade**](https://github.com/chadhurin/laravel-masquerade): let admins sign in as another user to debug what that user sees. 550+ installs on Packagist.
+
+#### Stack
+
+Laravel · Vue 3 · Vuetify · MySQL · Redis · Caddy · Flutter for the mobile apps
+
+#### Find me
+
+[LinkedIn](https://linkedin.com/in/chadhurin) · [X](https://x.com/chadhurin) · [Fleetwire on Medium](https://medium.com/@fleetwire)
