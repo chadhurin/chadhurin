@@ -25,4 +25,4 @@ Laravel · Vue 3 · Vuetify · MySQL · Redis · Caddy · Flutter for the mobile
 
 #### Find me
 
-[LinkedIn](https://linkedin.com/in/chadhurin) · [X](https://x.com/chadhurin) · [Fleetwire on Medium](https://medium.com/@fleetwire)
+[LinkedIn](https://linkedin.com/in/chadhurin) · [X](https://x.com/chadillac910) · [Fleetwire on Medium](https://medium.com/@fleetwire)
